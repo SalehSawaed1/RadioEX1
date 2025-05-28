@@ -1,0 +1,4 @@
+cnumpy
+scipy
+matplotlib  # (optional for visual debugging)
+pyaudio     # (optional for live audio capture/playback)
