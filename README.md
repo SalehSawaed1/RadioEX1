@@ -103,7 +103,7 @@ $ python receive.py
 
 ## 👤 Author
 
-Saleh Sawaed , Wasim Shebalny – 2025 – Audio Modem for RADIO Course
+Saleh Sawaed , Wasim Shebalny, Abdallah Zoabi – 2025 – Audio Modem for RADIO Course
 
 ---
 
